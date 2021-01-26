@@ -1,0 +1,9 @@
+name: ManeuverGearPlugin
+main: com.gmail.wellington.plugin.ManeuverGearMain
+version: 0.0.0
+api-version: 1.13
+
+commands:
+  mgear:
+    description: ManeuverGearPlugin's command;
+    usage: /mgear use
